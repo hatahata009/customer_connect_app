@@ -1,0 +1,17 @@
+[INFO] 2025-12-10 10:30:19,834 line 42, in <module>, session_id=b48f2625bb934d9696e9c9ed5618c87c: アプリが起動されました。
+[INFO] 2025-12-10 10:30:56,382 line 102, in <module>, session_id=b48f2625bb934d9696e9c9ed5618c87c: {'message': '環境への取り組みについて教えてください。'}
+[INFO] 2025-12-10 10:31:16,130 line 132, in <module>, session_id=b48f2625bb934d9696e9c9ed5618c87c: {'message': '株式会社EcoTeeでは、環境保護と持続可能な社会の実現に向けて、以下のような取り組みを行っています。オーガニックコットンの使用やリサイクル素材の活用、地域の素材調達を行い、サステナブルな生産プロセスを採用しています。水の使用削減や環境配慮型インクの使用、省エネルギー機器の導入なども行っています。また、GOTSやOEKO-TEX® STANDARD 100、ISO 14001などの環境認証を取得し、エコ意識啓発キャンペーンを展開しています。これらを通じて、環境への負荷を軽減し、持続可能な未来を目指しています。'}
+[INFO] 2025-12-10 10:47:54,648 line 42, in <module>, session_id=c6ba89fcf48840f7b8d66898320d9204: アプリが起動されました。
+[ERROR] 2025-12-10 11:21:50,964 line 35, in <module>, session_id=4889b79bba604b388740b16f6dac8bbe: 初期化処理に失敗しました。
+[Errno 2] No such file or directory: './data/product'
+[ERROR] 2025-12-10 11:22:09,549 line 35, in <module>, session_id=4889b79bba604b388740b16f6dac8bbe: 初期化処理に失敗しました。
+[Errno 2] No such file or directory: './data/product'
+[ERROR] 2025-12-10 11:28:04,333 line 35, in <module>, session_id=be6e5e87971b48c4a36eb091c946f5ff: 初期化処理に失敗しました。
+[Errno 2] No such file or directory: './data/product'
+[INFO] 2025-12-10 11:38:08,658 line 42, in <module>, session_id=3b7d3db358774ea79ba26ab574d9522d: アプリが起動されました。
+[INFO] 2025-12-10 11:38:21,794 line 102, in <module>, session_id=3b7d3db358774ea79ba26ab574d9522d: {'message': '商品情報を教えて'}
+[INFO] 2025-12-10 11:56:36,601 line 42, in <module>, session_id=dfc9627cd0844becb3dd10657052c642: アプリが起動されました。
+[INFO] 2025-12-10 11:56:54,148 line 102, in <module>, session_id=dfc9627cd0844becb3dd10657052c642: {'message': '株式会社EcoTeeの株主優待について教えて'}
+[INFO] 2025-12-10 11:57:20,473 line 132, in <module>, session_id=dfc9627cd0844becb3dd10657052c642: {'message': '株式会社EcoTeeの株主優待についての具体的な情報は見つかりませんでしたが、一般的に株主優待は保有株式数や継続保有条件に応じて提供されることが多いです。例えば、保有株式数に応じて割引券などがもらえる場合があります。詳細な情報については、公式ウェブサイトや最新の株主向け資料を直接確認することをお勧めします。'}
+[INFO] 2025-12-10 12:00:56,978 line 102, in <module>, session_id=dfc9627cd0844becb3dd10657052c642: {'message': '商品情報について教えて'}
+[INFO] 2025-12-10 12:01:19,243 line 132, in <module>, session_id=dfc9627cd0844becb3dd10657052c642: {'message': '株式会社EcoTeeは、サステナブル素材を使用したオーダーメイドTシャツの製造・販売を行っており、環境保護活動の支援もしています。主なサービス内容には、オーガニックコットン100%やリサイクル素材のTシャツ製造、環境保護に貢献するデザイン、自然由来の染料使用、そして環境に配慮した水性インクの使用が含まれます。全商品にはGOTS認証を取得した素材が使用されており、製造工程でのCO2排出削減にも取り組んでいます。'}
